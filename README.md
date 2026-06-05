@@ -13,6 +13,8 @@ targeting real-world QA scenarios for job-ready portfolio demonstration.
 - Page Object Model (POM)
 
 ## Project Structure
+
+` ` `
 playwright-qa-portafolio/
 ├── pages/
 │   └── login_page.py
@@ -23,6 +25,7 @@ playwright-qa-portafolio/
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
+` ` `
 
 ## Test Cases
 
