@@ -14,6 +14,8 @@ targeting real-world QA scenarios for job-ready portfolio demonstration.
 - GitHub Actions CI/CD
 
 ## Project Structure
+
+```
 playwright-qa-portafolio/
 ├── .github/
 │   └── workflows/
@@ -34,6 +36,7 @@ playwright-qa-portafolio/
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
+```
 
 ## Test Cases
 
