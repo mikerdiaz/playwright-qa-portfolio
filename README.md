@@ -61,6 +61,8 @@ pytest tests/ -v --html=reports/report.html --self-contained-html
 
 Tests run automatically on every push to main via GitHub Actions.
 
+📊 **Live Test Report:** [View Report](https://mikerdiaz.github.io/playwright-qa-portfolio/report.html)
+
 ## Author
 
 Mike Diaz – QA Automation Engineer
