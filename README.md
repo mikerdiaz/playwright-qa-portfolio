@@ -1,6 +1,8 @@
 markdown
 # Playwright QA Portfolio
 
+![CI](https://github.com/mikerdiaz/playwright-qa-portfolio/actions/workflows/ci.yml/badge.svg)
+
 End-to-end test automation framework built with Playwright and Python,
 targeting real-world QA scenarios for job-ready portfolio demonstration.
 
